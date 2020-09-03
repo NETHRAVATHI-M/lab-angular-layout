@@ -1,0 +1,26 @@
+ 
+
+ul{
+    float: left;
+    top:40px;
+    list-style-type: none;
+    margin: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-flow: row;
+}
+
+
+li a:hover{
+    background: rgb(58, 48, 44);
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    margin: 10px;
+} 
+li{
+    list-style-type: none;
+}
